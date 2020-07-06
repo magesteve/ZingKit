@@ -3,10 +3,7 @@ import XCTest
 
 final class ZingKitTests: XCTestCase {
     func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct
-        // results.
-        XCTAssertEqual(ZingKit().text, "Hello, World!")
+        XCTAssert(ZingKit.kitVersion==1, "Correct Version")
     }
 
     static var allTests = [
