@@ -1,5 +1,10 @@
 # ZingKit - A Swift based Animation Sequencer for UIView style animation.
 
+Revision: 1
+Version: 0.0.1
+
+To Clone: % git clone https://github.com/magesteve/ZingKit
+
 ## Description
 
 Using chained dot notation, a developer can create a sequence of animation commands (internally called a cell).  Once created, the sequence can be executed (start the animation running), and once running, the sequence can be safely canceled.
