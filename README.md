@@ -4,6 +4,7 @@ Revision: 1
 Version: 0.0.1
 
 To Clone: % git clone https://github.com/magesteve/ZingKit
+Zing Demo Repository: https://github.com/magesteve/Zing-Demo
 
 ## Description
 
