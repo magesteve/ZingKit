@@ -1,4 +1,8 @@
-# ZingKit - A Swift based Animation Sequencer for UIView style animation.
+# ZingKit
+
+A Swift based Animation Sequencer for UIView style animation.
+
+https://github.com/magesteve/ZingKit
 
 Revision: 1
 
